@@ -1,0 +1,19 @@
+{
+  "name": "Package_managers_exercise1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "figlet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
