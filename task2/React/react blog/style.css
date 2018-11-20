@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+h1 {
+    background-color: rgb(255, 86, 80);
+    color:white;
+    text-align: center;
+    padding: 15px;
+}
+.myStyle {
+    background-color: rgb(12, 52, 85);
+    color:white;
+    margin-top: 10px
+    ;
+}
+p,h3 {
+    padding-left:10px;
+}

@@ -1,0 +1,27 @@
+h1{
+    background: rgb(252, 65, 65);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+footer{
+    background: rgb(252, 65, 65);
+    color: white;
+}
+footer p{
+    padding:20px;
+}
+img{
+    padding:10px;
+    border-radius: 50px;
+    display: block;
+    float: left;
+}
+p{
+margin-left: 70px;
+}
+.profile{
+    background-color:rgb(219, 219, 219);
+    border-radius: 10px; 
+    margin-bottom: 20px;
+}
